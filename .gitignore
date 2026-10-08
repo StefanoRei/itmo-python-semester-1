@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+lab2/references.txt
+lab5/users.csv
